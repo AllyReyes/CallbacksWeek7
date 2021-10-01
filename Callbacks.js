@@ -1,5 +1,5 @@
 var pets = [a= "Pepper", b= "Boobear"];
-// console.log(a, b);
+// git
 
 function getPets() {
     setTimeout(() => {
